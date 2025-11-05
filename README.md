@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kevinbadboyz
+- 👋 Hi, I’m Kevin Pa1000
 - 👀 I’m interested in web app using Django framework and mobile app using Flutter, Java, Kotlin and Jetpack Compose
 - 🌱 I’m currently learning Flutter using REST API
 - 💞️ I’m looking to collaborate on Django preject and Flutter project with REST API
